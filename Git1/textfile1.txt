@@ -1,3 +1,4 @@
 text file 1 for practice
 "Consistency is matter "
 "This msg is add at github repo not in local"
+"This message is add from the local repositor"
