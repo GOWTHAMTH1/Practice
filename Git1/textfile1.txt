@@ -1,1 +1,2 @@
 text file 1 for practice
+"Consistency is matter "
