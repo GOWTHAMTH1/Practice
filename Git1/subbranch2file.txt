@@ -1,1 +1,1 @@
-Im fro  git subbranch2 
+Im from subbranch2 
